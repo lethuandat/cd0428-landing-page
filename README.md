@@ -1,9 +1,18 @@
 # Landing Page Project
 
-## Instructions
+## Table of Contents
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* HTML and CSS mostly from Udacity's startup project, and I did some changes.
+* Use DOM to generate a navigation bar.
+* Add and remove active class when scrolling through the sections.
+* Add a scroll to top button and smooth scroll with CSS.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Documents I have referenced
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+* https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
+* https://developer.mozilla.org/en-US/docs/Glossary/Viewport
+* https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+* https://www.markdownguide.org/basic-syntax/
+* https://code.jquery.com/jquery-3.5.1.js
+
+**© Udacity - Modified By DatLT53**
